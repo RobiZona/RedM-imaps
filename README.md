@@ -3,6 +3,6 @@
 RENAME FILE IN "imaps"
 
 * Add folder in resources
-* Ensure this script before framework</br>
+* Write "ensure imaps" before framework in server.cfg</br>
 
 **DONE** :)
